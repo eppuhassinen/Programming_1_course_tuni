@@ -1,0 +1,3 @@
+Kun suunnittelet käyttöliittymääsi, sinulla on kaksi vaihtoehtoa: voit tehdä alkeellisen tai kehittyneen käyttöliittymän (määritelty alempana). Jos toteutat alkeellisen käyttöliittymän, voit saada projektin arvostelussa maksimissaan 100 pistettä. Jos käyttöliittymäsi on kehittynyt, maksimipistemäärä on 200 pistettä.
+
+On äärimmäisen hankala määritellä tarkalleen millainen käyttöliittymä on alkeellinen ja millainen on kehittynyt. Seuraavassa annettu esimerkkejä kumastakin tapauksesta. Niiden perusteella jokaiselle syntynee intuitiivinen käsitys asiasta.
